@@ -1,4 +1,5 @@
-This library provides support for the Pulse-Eight USB-CEC adapter.
+This library is a fork of the Pulse-Eight USB-CEC adapter project.
+This adapter project is intended to support RainshadowTech USB-CEC adapters.
 
 ===============================================================================
                                 === Linux ===
